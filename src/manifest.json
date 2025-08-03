@@ -1,0 +1,9 @@
+{
+  "name": "Public Transport Optimizer",
+  "short_name": "TransportAI",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#4F46E5",
+  "background_color": "#ffffff",
+  "icons": [...]
+}
